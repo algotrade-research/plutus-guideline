@@ -5,7 +5,7 @@
 ### 1.1 Report Form
 - The forms for compiling reports are [here](./standard/report-form/). There are:
     - [Backtest Report](./standard/report-form/backtest-report.md)
-    - and [Paper-Trading Report](./standard/report-form/paper-trading-report.md)
+    - and [Paper-trading Report](./standard/report-form/paper-trading-report.md)
 
 ## 2 Data
 - Data source and data information can be found [here](./data/DATA.md).
