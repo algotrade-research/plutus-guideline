@@ -29,17 +29,21 @@ in the Github repo.
 ### 1.2 The README.md
 Each Github repository have a `README.md` file contains the overall information of the project. The file is put in the root folder of the project, refers to the repository [`plutus-project-template`](https://github.com/algotrade-research/plutus-project-template) for more information.
 
-The idea of the `README.md` is to provide the reader of the repositoty how to **RUN** and **REPLICATE** the result(s) of this project. Hence, The `Experiment` is the most important section in this file (more later).
+The idea of the `README.md` is to provide the reader of the repositoty how to **RUN** and **REPLICATE** the result(s) of this project. Hence, these sections are the focuses of this file:
+- `Method`: can be brief, but need to go through all the implemented methods
+- `Experiment`: most important, show how to run and replicate the project
+- `Result`: second most important, the experiment outputs should match the written results.
 
 The structure of the specific `README.md` file can deviate from the template presented below depends on the situation. Nevertheless, the file should provide the reader a clear instruction and an accurate overview about the project.
 
 Below is the template of the `README.md`:
-- Has a `Abstract` to summarize the project, the motivation, the methods, and the findings in less than 10 sentences.
+- Has a `Abstract` to summarize the project, the motivation, the methods, and the findings in less than 5 sentences.
 - Has a `Introduction` section to briefly talk about the project. Content of this section can be:
     - The motivation to do the project (answering the "Why?" question)
     - An overview of the method conducted in this project (answering the "How" question)
     - The goal of the project (answering the "What" question)
-- Has a (optional) `Related Work` or `Background` section to introduce the prerequisite reading if the audience needs knowledge before exploring the project.
+    - This section in `README.md` file should be brief. Only 1-2 paragraphs is sufficient. Details are put in the Final Report/Paper.
+- Has a (optional) `Related Work` or `Background` section to briefly introduce the prerequisite reading if the audience needs knowledge before exploring the project.
 - Has a `Data` section to briefly talk about the data.
     - What is the data? Format, structure, type, etc.?
     - How to get the input data?
@@ -55,12 +59,12 @@ Below is the template of the `README.md`:
     - The complete set of parameters, input data, and output of all the experiments examined in the project should be mentioned in a separate section but not in the README.md file. Preferred these information is put into the **Final Report** or **Paper**.
 - Has a (optional) `Conclusion` section.
 - Has a `Reference` section to mention the references.
-- A link to the final report (or paper)
-    - Show how to compile the final report (or paper) if the report is written in a language like LaTex.
+- A link to the Final Report/Paper
+    - Show how to compile the document if the it is written in a language like LaTex.
 - Be reasonably easy to follow.
 
-### 1.3 The Final Report (or Paper)
-- The final report contains all the same sections as the `README.md` file but in more in-depth details. Note that the `Related Work` (or `Backrgound`), and `Conclusion` sections are **NOT** optional in the final report.
+### 1.3 The Final Report/Paper
+- This document contains all the same sections as the `README.md` file but in more in-depth details. Note that the `Related Work` (or `Backrgound`), and `Conclusion` sections are **NOT** optional in the final report.
 - If the final document was written in software such as LaTex, it should be included in the project's GitHub repository and the source to compile it.
 - The final document should contain adequate information to understand the project. It should contain documentation reproducing the result up to:
     - Minimally, Step 6: Out-of-sample Backtesting
