@@ -44,19 +44,32 @@ Below is the template of the `README.md`:
     - The goal of the project (answering the "What" question)
     - This section in `README.md` file should be brief. Only 1-2 paragraphs is sufficient. Details are put in the Final Report/Paper.
 - Has a (optional) `Related Work` or `Background` section to briefly introduce the prerequisite reading if the audience needs knowledge before exploring the project.
-- Has a `Data` section to briefly talk about the data.
-    - What is the data? Format, structure, type, etc.?
-    - How to get the input data?
-    - How to store the output data?
-- Has a `Method` section to briefly discuss about the method and/or implementation of the project.
-- Has a `Experiment` section to discuss the concrete implementation of the methods conducted in the project and how to run and replicate them. This is the most important section in the `README.md` file. In this section:
-    - Show how to run the project and reproduce the result.
-        - Show how to set up the environment for running the project.
-        - Show how to change the parameter for different run.
-    - Specify the standard set of parameters, input data, and output of each experiment.
-- Has a `Result` section to discuss results corresponding to each implemented method
-    - The output results, such as tables and images, should be briefly shown in the README.md file.
-    - The complete set of parameters, input data, and output of all the experiments examined in the project should be mentioned in a separate section but not in the README.md file. Preferred these information is put into the **Final Report** or **Paper**.
+- Has at least sections to briefly discuss from `Step 1: Forming Trading Hypotheses` to `Step 6: Out-of-sample Backtesting` (or `Step 7: Paper Trading`) of the [Nine-Step process](https://hub.algotrade.vn/knowledge-hub/steps-to-develop-a-trading-algorithm/):
+    - Should has section to discuss the `Trading (Algorithm) Hypotheses` (Step 1).
+    - Should has section to discuss the `Data` (Step 2: Data Collection and Step 3: Data Processing)
+    - Should has section to present the `Implementation` (or `How to Run`) of the trading algorithm
+    - Should has section to discuss the `In-sample Backtesting` (Step 4)
+    - Should has section to discuss the `Optimization` (Step 5)
+    - Should has section to discuss the `Out-of-sample Backtesting` (Step 6) 
+    - Should has section to discuss the `Paper Trading` (Step 7), if there is
+- The `Data` section should has 2 subsections:
+    - `Data Collection` to discuss the Step 2
+    - `Data Processing` to discuss the Step 3
+    - Some questions need to be answered in this sectio:
+        - What is the data: Period of data, format, structure, type, etc.?
+        - How to input the configuration?
+        - How to store the output data?
+- The `Implementation` or (`How to run`) should present:
+    - How to set up the enviroment to run the source code and required steps to replicate the results
+    - Discuss the concrete implementation if there are any essential details
+    - How to run each step from `In-sample Backtesting`, Step 4 to `Out-of-sample Backtesting`, Step 6 (or `Paper Trading`, Step 7).
+    - How to change the algorithm configurations for different run.
+- In each section from the `In-sample Backtesting` to the `Paper Trading`:
+    - Specify the standard (or sample) set of parameters, input data, and the corresponding output.
+    - There should be a subsection `Result` to present and discuss the results.
+- In this `README.md`, the `Result` subsection of each steps:
+    - Should only briefly shown the output results, such as tables and images. The link to the report of each step (4-7) should be presented also.
+- The complete set of parameters, input data, and output of all the experiments examined in the project should be mentioned in a separate section but not in the README.md file. Preferred these information is put into the **Final Report** or **Paper**.
 - Has a (optional) `Conclusion` section.
 - Has a `Reference` section to mention the references.
 - A link to the Final Report/Paper
