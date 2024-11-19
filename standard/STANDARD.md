@@ -30,9 +30,9 @@ in the Github repo.
 Each Github repository have a `README.md` file contains the overall information of the project. The file is put in the root folder of the project, refers to the repository [`plutus-project-template`](https://github.com/algotrade-research/plutus-project-template) for more information.
 
 The idea of the `README.md` is to provide the reader of the repositoty how to **RUN** and **REPLICATE** the result(s) of this project. Hence, these sections are the focuses of this file:
-- `Method`: can be brief, but need to go through all the implemented methods
-- `Experiment`: most important, show how to run and replicate the project
-- `Result`: second most important, the experiment outputs should match the written results.
+- `Data`: can be brief, but understandable and clear how to get the data to replicate the results
+- `Implementation`: most important, show how to run and replicate the project
+- `In-sample Backtesting` to `Paper Trading`: second most important, show how to do the step in development the algorithms and the associated results.
 
 The structure of the specific `README.md` file can deviate from the template presented below depends on the situation. Nevertheless, the file should provide the reader a clear instruction and an accurate overview about the project.
 
@@ -141,6 +141,7 @@ Hard to do, so optional at the moment
 
 
 ## 5 Backtesting
+Can use this [form](./report-form/backtesting-report-form.pdf) ([LaTeX source](./report-form/backtesting-report-form-source.zip)) to generate the Backtesting Report
 ### 5.1 Requirement
 - The backtest function should be easy to run (one click).
 - The backtest function should make it easy to change the parameters.
@@ -173,6 +174,7 @@ Hard to do, so optional at the moment
 
 
 ## 7 Paper Trading
+Can use this [form](./report-form/papertrading-report-form.pdf) ([LaTeX source](./report-form/papertrading-report-form-source.zip)) to generate the Paper Trading Report
 ### 7.1 Requirement
 - The results of the paper trading should be well documented.
     - The data source.
