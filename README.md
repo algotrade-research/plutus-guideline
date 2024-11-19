@@ -12,7 +12,7 @@
 ## 2 Data
 - Data source and data information can be found [here](./data/DATA.md).
 
-## 3 Sample
+## 3 Sample Project
 Below is the list of sample projects. Each project has link to the author/maintainer profile. Plutus compliance percentage show how much the project is currently aligned with [Plutus Standard](./standard/STANDARD.md).
 | **ID** |                        **Project Name**                          | **Strategy Type** | **Author/Maintainer** | **Plutus Compliance** |
 |--------|------------------------------------------------------------------|-------------------|-----------------------|:---------------------:|
