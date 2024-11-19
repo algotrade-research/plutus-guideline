@@ -8,7 +8,7 @@ A Guide to the data for the Plutus project
     - Financial Report Pre 2023
 
 ### Data Field
-TBU
+- Details can be found in [this document](./data-field-description.md).
 
 ## Sample Project Data
 - Data of the two sample projects can also be explored [here](https://drive.google.com/drive/folders/1V2mZK20JWXRuEVHDoOad4cEyzqZs72CY):
