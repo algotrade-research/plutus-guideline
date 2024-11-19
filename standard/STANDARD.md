@@ -162,6 +162,7 @@ Can use this [form](./report-form/backtesting-report-form.pdf) ([LaTeX source](.
 
 
 ## 6 Optimization
+Can use this [form](./report-form/optimization/optimization-report-form.pdf) ([LaTeX source](./report-form/optimization/optimization-report-form-source.zip)) to generate the Optimization Report
 ### 6.1 Requirement
 - The optimization functions should be structured into one class or package
 - The optimization functions should be easy to understand, implement standard methods, or use a well-known black box library. If new optimization methods are implemented, unit tests and test cases should be used to ensure the correctness of the function. - - - Documentation of the newly invented optimization methods should be written as well.
