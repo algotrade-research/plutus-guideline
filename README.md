@@ -13,7 +13,9 @@
 - Data source and data information can be found [here](./data/DATA.md).
 
 ## 3 Sample
-- There are currently two sample projects:
-    - [Smart Beta](https://github.com/algotrade-research/smart-beta)
-        - This project is more aligned to current Plutus standard than others.
-    - and [Deep Market Maker](https://github.com/algotrade-research/deepmm)
+Below is the list of sample projects. Each project has link to the author/maintainer profile. Plutus compliance percentage show how much the project is currently aligned with [Plutus Standard](./standard/STANDARD.md).
+| **ID** |                        **Project Name**                          | **Strategy Type** | **Author/Maintainer** | **Plutus Compliance** |
+|--------|------------------------------------------------------------------|-------------------|-----------------------|:---------------------:|
+| 1      | [SmartBeta](https://github.com/algotrade-research/smart-beta)    | Smart-Beta        | [Tạ Quang Khôi](https://github.com/khoi-ta) |          90%          |
+| 2      | [DeepMM](https://github.com/algotrade-research/deepmm)           | Market-Making     | [Lê Thanh Danh](https://github.com/danhleth)|          70%          |
+| 3      |                                                                  |                   |                       |                       |
