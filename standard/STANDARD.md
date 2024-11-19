@@ -91,6 +91,7 @@ Below is the template of the `README.md`:
 - There should be unit tests and test cases in essential functions and classes.
 - The project should use a version control system, be hosted in a service like GitHub, and be easy to access.
 - There should be documentation of the code and docstring in essential functions and classes.
+    - The docstring is preferred to follow guidelines such as [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html).
 - Code should be structured into proper classes and functions.
 - Functions should be short, serve only one purpose, or be simple enough to reuse.
 - The code should be easy to understand and extendable.
