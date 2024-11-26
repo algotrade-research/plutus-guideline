@@ -16,6 +16,6 @@
 Below is the list of sample projects. Each project has link to the author/maintainer profile. Plutus compliance percentage show how much the project is currently aligned with [Plutus Standard](./standard/STANDARD.md).
 | **ID** | **Project Name** | **Strategy Type** | **Author/Maintainer** | **Plutus Compliance** |
 |--------|------------------------------------------------------------------|-------------------|-----------------------|:---------------------:|
-| 1 | [SmartBeta](https://github.com/algotrade-research/smart-beta) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Tạ Quang Khôi](https://github.com/khoi-ta) | 90% |
+| 1 | [SmartBeta](https://github.com/algotrade-research/smart-beta) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Tạ Quang Khôi](https://github.com/khoi-ta) | 95% |
 | 2 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth)| 70% |
 | 3 |                                                                  |                   |                       |                       |
