@@ -17,5 +17,5 @@ Below is the list of sample projects. Each project has link to the author/mainta
 | **ID** | **Project Name** | **Strategy Type** | **Author/Maintainer** | **Plutus Compliance** |
 |--------|------------------------------------------------------------------|-------------------|-----------------------|:---------------------:|
 | 1 | [SmartBeta](https://github.com/algotrade-research/smart-beta) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Tạ Quang Khôi](https://github.com/khoi-ta) | 95% (tentative) |
-| 2 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth)| 70% |
+| 2 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth), [Lương Thanh Anh Đức](https://github.com/luongthanhanhduc)| 70% |
 | 3 |                                                                  |                   |                       |                       |
