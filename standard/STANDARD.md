@@ -142,7 +142,7 @@ Hard to do, so optional at the moment
 
 
 ## 5 Backtesting
-Can use this [form](./report-form/backtesting-report-form.pdf) ([LaTeX source](./report-form/backtesting-report-form-source.zip)) to generate the Backtesting Report
+Can use this [form](standard/report-form/backtesting/backtesting-report-form.pdf) ([LaTeX source](standard/report-form/backtesting/backtesting-report-form-source.zip)) to generate the Backtesting Report
 ### 5.1 Requirement
 - The backtest function should be easy to run (one click).
 - The backtest function should make it easy to change the parameters.
@@ -162,7 +162,7 @@ Can use this [form](./report-form/backtesting-report-form.pdf) ([LaTeX source](.
 
 
 ## 6 Optimization
-Can use this [form](./report-form/optimization/optimization-report-form.pdf) ([LaTeX source](./report-form/optimization/optimization-report-form-source.zip)) to generate the Optimization Report
+Can use this [form](standard/report-form/optimization/optimization-report-form.pdf) ([LaTeX source](standard/report-form/optimization/optimization-report-form-source.zip)) to generate the Optimization Report
 ### 6.1 Requirement
 - The optimization functions should be structured into one class or package
 - The optimization functions should be easy to understand, implement standard methods, or use a well-known black box library. If new optimization methods are implemented, unit tests and test cases should be used to ensure the correctness of the function. - - - Documentation of the newly invented optimization methods should be written as well.
@@ -176,7 +176,7 @@ Can use this [form](./report-form/optimization/optimization-report-form.pdf) ([L
 
 
 ## 7 Paper Trading
-Can use this [form](./report-form/papertrading-report-form.pdf) ([LaTeX source](./report-form/papertrading-report-form-source.zip)) to generate the Paper Trading Report
+Can use this [form](standard/report-form/paper-trading/papertrading-report-form.pdf) ([LaTeX source](standard/report-form/paper-trading/papertrading-report-form-source.zip)) to generate the Paper Trading Report
 ### 7.1 Requirement
 - The results of the paper trading should be well documented.
     - The data source.
