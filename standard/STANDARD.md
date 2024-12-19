@@ -2,11 +2,11 @@
 A series of questions to guide the projects to adhere to open source standards
 
 ## 0 Introduction
-This guideline is used to assess the open-source conformity of collborated projects in differences ALGOTRADE Training Program, including:
+This guideline is used to assess the open-source conformity of collaborated projects in different ALGOTRADE Training Programs, including:
 - Algo Researcher
 - Internship
 - Algorithmic Trading Course
-- and collaboated University Thesis Project.
+- and collaborated University Thesis Project.
 
 Below listed the requirement of each aspects of an ready-to-publish open-source project. There are current seven (7) aspects:
 1. Documentation
@@ -37,25 +37,25 @@ The idea of the `README.md` is to provide the reader of the repositoty how to **
 The structure of the specific `README.md` file can deviate from the template presented below depends on the situation. Nevertheless, the file should provide the reader a clear instruction and an accurate overview about the project.
 
 Below is the template of the `README.md`:
-- Has a `Abstract` to summarize the project, the motivation, the methods, and the findings in less than 5 sentences.
-- Has a `Introduction` section to briefly talk about the project. Content of this section can be:
+- Has an `Abstract` to summarize the project, the motivation, the methods, and the findings in less than 5 sentences.
+- Has an `Introduction` section to briefly talk about the project. Content of this section can be:
     - The motivation to do the project (answering the "Why?" question)
     - An overview of the method conducted in this project (answering the "How" question)
     - The goal of the project (answering the "What" question)
     - This section in `README.md` file should be brief. Only 1-2 paragraphs is sufficient. Details are put in the Final Report/Paper.
 - Has a (optional) `Related Work` or `Background` section to briefly introduce the prerequisite reading if the audience needs knowledge before exploring the project.
 - Has at least sections to briefly discuss from `Step 1: Forming Trading Hypotheses` to `Step 6: Out-of-sample Backtesting` (or `Step 7: Paper Trading`) of the [Nine-Step process](https://hub.algotrade.vn/knowledge-hub/steps-to-develop-a-trading-algorithm/):
-    - Should has section to discuss the `Trading (Algorithm) Hypotheses` (Step 1).
-    - Should has section to discuss the `Data` (Step 2: Data Collection and Step 3: Data Processing)
-    - Should has section to present the `Implementation` (or `How to Run`) of the trading algorithm
-    - Should has section to discuss the `In-sample Backtesting` (Step 4)
-    - Should has section to discuss the `Optimization` (Step 5)
-    - Should has section to discuss the `Out-of-sample Backtesting` (Step 6) 
-    - Should has section to discuss the `Paper Trading` (Step 7), if there is
+    - Should have a section to discuss the `Trading (Algorithm) Hypotheses` (Step 1).
+    - Should have a section to discuss the `Data` (Step 2: Data Collection and Step 3: Data Processing)
+    - Should have a section to present the `Implementation` (or `How to Run`) of the trading algorithm
+    - Should have a section to discuss the `In-sample Backtesting` (Step 4)
+    - Should have a section to discuss the `Optimization` (Step 5)
+    - Should have a section to discuss the `Out-of-sample Backtesting` (Step 6) 
+    - Should have a section to discuss the `Paper Trading` (Step 7), if there is
 - The `Data` section should has 2 subsections:
     - `Data Collection` to discuss the Step 2
     - `Data Processing` to discuss the Step 3
-    - Some questions need to be answered in this sectio:
+    - Some questions need to be answered in this section:
         - What is the data: Period of data, format, structure, type, etc.?
         - How to input the configuration?
         - How to store the output data?
@@ -73,7 +73,7 @@ Below is the template of the `README.md`:
 - Has a (optional) `Conclusion` section.
 - Has a `Reference` section to mention the references.
 - A link to the Final Report/Paper
-    - Show how to compile the document if the it is written in a language like LaTex.
+    - Show how to compile the document if it is written in a language like LaTex.
 - Be reasonably easy to follow.
 
 ### 1.3 The Final Report/Paper
@@ -142,7 +142,7 @@ Hard to do, so optional at the moment
 
 
 ## 5 Backtesting
-Can use this [form](./report-form/backtesting-report-form.pdf) ([LaTeX source](./report-form/backtesting-report-form-source.zip)) to generate the Backtesting Report
+Can use this [form](standard/report-form/backtesting/backtesting-report-form.pdf) ([LaTeX source](standard/report-form/backtesting/backtesting-report-form-source.zip)) to generate the Backtesting Report
 ### 5.1 Requirement
 - The backtest function should be easy to run (one click).
 - The backtest function should make it easy to change the parameters.
@@ -162,7 +162,7 @@ Can use this [form](./report-form/backtesting-report-form.pdf) ([LaTeX source](.
 
 
 ## 6 Optimization
-Can use this [form](./report-form/optimization/optimization-report-form.pdf) ([LaTeX source](./report-form/optimization/optimization-report-form-source.zip)) to generate the Optimization Report
+Can use this [form](standard/report-form/optimization/optimization-report-form.pdf) ([LaTeX source](standard/report-form/optimization/optimization-report-form-source.zip)) to generate the Optimization Report
 ### 6.1 Requirement
 - The optimization functions should be structured into one class or package
 - The optimization functions should be easy to understand, implement standard methods, or use a well-known black box library. If new optimization methods are implemented, unit tests and test cases should be used to ensure the correctness of the function. - - - Documentation of the newly invented optimization methods should be written as well.
@@ -176,7 +176,7 @@ Can use this [form](./report-form/optimization/optimization-report-form.pdf) ([L
 
 
 ## 7 Paper Trading
-Can use this [form](./report-form/papertrading-report-form.pdf) ([LaTeX source](./report-form/papertrading-report-form-source.zip)) to generate the Paper Trading Report
+Can use this [form](standard/report-form/paper-trading/papertrading-report-form.pdf) ([LaTeX source](standard/report-form/paper-trading/papertrading-report-form-source.zip)) to generate the Paper Trading Report
 ### 7.1 Requirement
 - The results of the paper trading should be well documented.
     - The data source.
