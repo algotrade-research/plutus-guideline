@@ -17,5 +17,6 @@ Below is the list of sample projects. Each project has link to the author/mainta
 | **ID** | **Project Name** | **Strategy Type** | **Author/Maintainer** | **Plutus Compliance** |
 |--------|------------------------------------------------------------------|-------------------|-----------------------|:---------------------:|
 | 1 | [SmartBeta](https://github.com/algotrade-research/smart-beta) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Tạ Quang Khôi](https://github.com/khoi-ta) | 95% (tentative) |
-| 2 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth), [Lương Thanh Anh Đức](https://github.com/luongthanhanhduc)| 70% |
-| 3 |                                                                  |                   |                       |                       |
+| 2 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth), [Lương Thanh Anh Đức](https://github.com/luongthanhanhduc)| 50% |
+| 3 | [SearchingTA](https://github.com/algotrade-research/SearchingTA) | [Momentum](https://hub.algotrade.vn/knowledge-hub/momentum-strategy/), [Mean-Reversion](https://hub.algotrade.vn/knowledge-hub/mean-reversion-strategy/) | [Tống Thiên Phước](https://github.com/algotrade-research/SearchingTA/) | 65% |
+| 4 | | | | |
