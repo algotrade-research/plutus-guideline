@@ -19,72 +19,7 @@ Below listed the requirement of each aspects of an ready-to-publish open-source 
 
 
 ## 1 Documentation
-### 1.1 Requirement
-- The project should be hosted on [ALGOTRADE Plutus organization in Github](https://github.com/algotrade-research).
-- The project should have a `README.md` file
-- And a Final Report (or Paper)
-
-in the Github repo.
-
-### 1.2 The README.md
-Each Github repository have a `README.md` file contains the overall information of the project. The file is put in the root folder of the project, refers to the repository [`plutus-project-template`](https://github.com/algotrade-research/plutus-project-template) for more information.
-
-The idea of the `README.md` is to provide the reader of the repositoty how to **RUN** and **REPLICATE** the result(s) of this project. Hence, these sections are the focuses of this file:
-- `Data`: can be brief, but understandable and clear how to get the data to replicate the results
-- `Implementation`: most important, show how to run and replicate the project
-- `In-sample Backtesting` to `Paper Trading`: second most important, show how to do the step in development the algorithms and the associated results.
-
-The structure of the specific `README.md` file can deviate from the template presented below depends on the situation. Nevertheless, the file should provide the reader a clear instruction and an accurate overview about the project.
-
-Below is the template of the `README.md`:
-- Has an `Abstract` to summarize the project, the motivation, the methods, and the findings in less than 5 sentences.
-- Has an `Introduction` section to briefly talk about the project. Content of this section can be:
-    - The motivation to do the project (answering the "Why?" question)
-    - An overview of the method conducted in this project (answering the "How" question)
-    - The goal of the project (answering the "What" question)
-    - This section in `README.md` file should be brief. Only 1-2 paragraphs is sufficient. Details are put in the Final Report/Paper.
-- Has a (optional) `Related Work` or `Background` section to briefly introduce the prerequisite reading if the audience needs knowledge before exploring the project.
-- Has at least sections to briefly discuss from `Step 1: Forming Trading Hypotheses` to `Step 6: Out-of-sample Backtesting` (or `Step 7: Paper Trading`) of the [Nine-Step process](https://hub.algotrade.vn/knowledge-hub/steps-to-develop-a-trading-algorithm/):
-    - Should have a section to discuss the `Trading (Algorithm) Hypotheses` (Step 1).
-    - Should have a section to discuss the `Data` (Step 2: Data Collection and Step 3: Data Processing)
-    - Should have a section to present the `Implementation` (or `How to Run`) of the trading algorithm
-    - Should have a section to discuss the `In-sample Backtesting` (Step 4)
-    - Should have a section to discuss the `Optimization` (Step 5)
-    - Should have a section to discuss the `Out-of-sample Backtesting` (Step 6) 
-    - Should have a section to discuss the `Paper Trading` (Step 7), if there is
-- The `Data` section should has 2 subsections:
-    - `Data Collection` to discuss the Step 2
-    - `Data Processing` to discuss the Step 3
-    - Some questions need to be answered in this section:
-        - What is the data: Period of data, format, structure, type, etc.?
-        - How to input the configuration?
-        - How to store the output data?
-- The `Implementation` or (`How to run`) should present:
-    - How to set up the enviroment to run the source code and required steps to replicate the results
-    - Discuss the concrete implementation if there are any essential details
-    - How to run each step from `In-sample Backtesting`, Step 4 to `Out-of-sample Backtesting`, Step 6 (or `Paper Trading`, Step 7).
-    - How to change the algorithm configurations for different run.
-- In each section from the `In-sample Backtesting` to the `Paper Trading`:
-    - Specify the standard (or sample) set of parameters, input data, and the corresponding output.
-    - There should be a subsection `Result` to present and discuss the results.
-- In this `README.md`, the `Result` subsection of each steps:
-    - Should only briefly shown the output results, such as tables and images. The link to the report of each step (4-7) should be presented also.
-- The complete set of parameters, input data, and output of all the experiments examined in the project should be mentioned in a separate section but not in the README.md file. Preferred these information is put into the **Final Report** or **Paper**.
-- Has a (optional) `Conclusion` section.
-- Has a `Reference` section to mention the references.
-- A link to the Final Report/Paper
-    - Show how to compile the document if it is written in a language like LaTex.
-- Be reasonably easy to follow.
-
-### 1.3 The Final Report/Paper
-- This document contains all the same sections as the `README.md` file but in more in-depth details. Note that the `Related Work` (or `Backrgound`), and `Conclusion` sections are **NOT** optional in the final report.
-- If the final document was written in software such as LaTex, it should be included in the project's GitHub repository and the source to compile it.
-- The final document should contain adequate information to understand the project. It should contain documentation reproducing the result up to:
-    - Minimally, Step 6: Out-of-sample Backtesting
-    - Ideally, Step 7: Paper Trading
-    
-    of the [Nine-Step process](https://hub.algotrade.vn/knowledge-hub/steps-to-develop-a-trading-algorithm/).
-
+Please refer to the [PLUTUS Standard `README.md`](../README.md) file.
 
 ## 2 Coding
 ### 2.1 Requirement
