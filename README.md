@@ -38,7 +38,7 @@ Below is the template of the `README.md`:
     - The goal of the project (answering the "What?" question)
     - This section in the `README.md` file should be brief. Only 1-2 paragraphs are sufficient. Details can be included in the final report/paper.
 - Has a (optional) `Related Work` or `Background` section to briefly introduce the prerequisite reading if the audience needs knowledge before exploring the project.
-- Has at least sections to briefly discuss from `Step 1: Forming Trading Hypotheses` to `Step 6: Out-of-sample Backtesting` (or `Step 7: Paper Trading`) of the [Nine-Step process](https://hub.algotrade.vn/knowledge-hub/steps-to-develop-a-trading-algorithm/):
+- Has at least sections to briefly discuss from `Step 1: Forming Trading Hypotheses` to `Step 6: Out-of-sample Backtesting` (or `Step 7: Paper Trading`) of the [9-Step process](https://hub.algotrade.vn/knowledge-hub/steps-to-develop-a-trading-algorithm/):
     - A section to discuss the `Trading (Algorithm) Hypotheses` (Step 1).
     - A section to discuss the `Data` (Step 2: Data Collection and Step 3: Data Processing)
     - A section to present the `Implementation` (or `How to Run`) of the trading algorithm
@@ -78,7 +78,7 @@ Below is the template of the `README.md`:
     - Minimally, Step 6: Out-of-sample Backtesting
     - Ideally, Step 7: Paper Trading
     
-    of the [Nine-Step process](https://hub.algotrade.vn/knowledge-hub/steps-to-develop-a-trading-algorithm/).
+    of the [9-Step process](https://hub.algotrade.vn/knowledge-hub/steps-to-develop-a-trading-algorithm/).
 
 ### 1.2 Other aspects
 Several aspects are available to assess the projects. However, these aspects are not currently required to comply with the PLUTUS Standard. The non-exhausted list of aspects is presented [here](standard/plutus-assessment-guide.md).
