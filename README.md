@@ -90,7 +90,7 @@ Data source and data information can be found [here](./data/DATA.md).
 Below is the list of sample projects which adhere to the PLUTUS Standard. Each project has link to the author/maintainer profile. Plutus compliance percentage show how much the project is currently aligned with the PLUTUS Standard mention in Section 1:
 | **ID** | **Project Name** | **Strategy Type** | **Author/Maintainer** | **Plutus Compliance** |
 |--------|------------------------------------------------------------------|-------------------|-----------------------|:---------------------:|
-| 1 | [SmartBeta](https://github.com/algotrade-research/smart-beta) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Tạ Quang Khôi](https://github.com/khoi-ta) | 95% (tentative) |
+| 1 | [SmartBeta](https://github.com/algotrade-research/smart-beta) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Tạ Quang Khôi](https://github.com/khoi-ta) | 75% |
 | 2 | [SearchingTA](https://github.com/algotrade-research/SearchingTA) | [Momentum](https://hub.algotrade.vn/knowledge-hub/momentum-strategy/), [Mean-Reversion](https://hub.algotrade.vn/knowledge-hub/mean-reversion-strategy/) | [Tống Thiên Phước](https://github.com/tphuoc04/) | 65% |
 | 3 | [Statisical-Arbitrage](https://github.com/algotrade-research/Statisical-Arbitrage) | [Market-Neutral: Statistical Arbitrage](https://hub.algotrade.vn/knowledge-hub/market-neutral-strategy/) | [Cao Quang Hiếu](https://github.com/HieuQCao) | 60% |
 | 4 | [Intraday-Momentum](https://github.com/algotrade-research/Intraday-Momentum) | [Momentum](https://hub.algotrade.vn/knowledge-hub/momentum-strategy/) | [Lâm Thành Duy](https://github.com/ltduy6) | 55% |
