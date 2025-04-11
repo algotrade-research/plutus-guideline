@@ -87,6 +87,11 @@ Several aspects are available to assess the projects. However, these aspects are
 Data source and data information can be found [here](./data/DATA.md).
 
 # 3 Sample Projects
+Three badge levels go with the Compliance Score:
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-<score>-%23BA8E23) is for a project's score ranging from 50% to 69%. 
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-<score>-darkgreen) is for a project's score ranging from 70% to 99%.
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-100%25-purple) is reserved for projects with a score of 100%, flagship projects to promote the PLUTUS Guidelines.
+
 Below is the list of sample projects which adhere to the PLUTUS Standard. Each project has link to the author/maintainer profile. Plutus compliance percentage show how much the project is currently aligned with the PLUTUS Standard.
 | **ID** | **Project Name** | **Strategy Type** | **Author/Maintainer** | **PLUTUS Compliance** |
 |--------|------------------------------------------------------------------|-------------------|-----------------------|:---------------------:|
