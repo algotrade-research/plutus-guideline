@@ -70,7 +70,7 @@ Below is the template of the `README.md`:
     - Show how to compile the document if it is written in a language like LaTex.
 - Be reasonably easy to follow.
 
-### 1.1 The Final Report/Paper (Optional)
+## 1.1 The Final Report/Paper (Optional)
 - Apart from the `README.md` file, there can be a formal written report or paper further to discuss the methodology and results of the project.
 - This document contains all the same sections as the `README.md` file but in more detail. Note that the `Related Work` (or `Backrgound`) and `Conclusion` sections are **NOT** optional in the final report.
 - If the final document was written in software such as LaTex, it should be included in the project's GitHub repository and the source to compile it.
@@ -80,23 +80,22 @@ Below is the template of the `README.md`:
     
     of the [9-Step process](https://hub.algotrade.vn/knowledge-hub/steps-to-develop-a-trading-algorithm/).
 
-### 1.2 Other aspects
+## 1.2 Other aspects
 Several aspects are available to assess the projects. However, these aspects are not currently required to comply with the PLUTUS Standard. The non-exhausted list of aspects is presented [here](standard/plutus-assessment-guide.md).
 
-## 2 Data
+# 2 Data
 Data source and data information can be found [here](./data/DATA.md).
 
-## 3 Sample Project
-Below is the list of sample projects which adhere to the PLUTUS Standard. Each project has link to the author/maintainer profile. Plutus compliance percentage show how much the project is currently aligned with the PLUTUS Standard mention in Section 1:
+# 3 Sample Projects
+Below is the list of sample projects which adhere to the PLUTUS Standard. Each project has link to the author/maintainer profile. Plutus compliance percentage show how much the project is currently aligned with the PLUTUS Standard.
 | **ID** | **Project Name** | **Strategy Type** | **Author/Maintainer** | **PLUTUS Compliance** |
 |--------|------------------------------------------------------------------|-------------------|-----------------------|:---------------------:|
-| 1 | [InstiFund](https://github.com/algotrade-research/InstiFund) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/), [ETF Front-Runner Strategy](https://hub.algotrade.vn/knowledge-hub/front-running-etf-strategy/) | [Đặng Minh Nhật](https://github.com/BJMinhNhut) | 80% |
-| 2 | [SearchingTA](https://github.com/algotrade-research/SearchingTA) | [Momentum](https://hub.algotrade.vn/knowledge-hub/momentum-strategy/), [Mean-Reversion](https://hub.algotrade.vn/knowledge-hub/mean-reversion-strategy/) | [Tống Thiên Phước](https://github.com/tphuoc04/) | 75% |
-| 3 | [FinTrip](https://github.com/algotrade-research/FinTrip) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Tạ Quang Khôi](https://github.com/khoi-ta) | 75% |
-| 4 | [Statisical-Arbitrage](https://github.com/algotrade-research/Statisical-Arbitrage) | [Market-Neutral: Statistical Arbitrage](https://hub.algotrade.vn/knowledge-hub/market-neutral-strategy/) | [Cao Quang Hiếu](https://github.com/HieuQCao) | 75% |
-| 5 | [Intraday-Momentum](https://github.com/algotrade-research/Intraday-Momentum) | [Momentum](https://hub.algotrade.vn/knowledge-hub/momentum-strategy/) | [Lâm Thành Duy](https://github.com/ltduy6) | 75% |
-| 6 | [SmartBeta](https://github.com/algotrade-research/SmartBeta) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Lê Đức Phú](https://github.com/dphu2609) | 70% |
-| 7 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth), [Lương Thanh Anh Đức](https://github.com/luongthanhanhduc)| 50% |
-| 8 | | | | |
-
-<!-- | 7 | [scalping-strategy](https://github.com/algotrade-research/scalping-strategy) | [Scalping](https://hub.algotrade.vn/knowledge-hub/scalping-strategy/) | [Trần Thị Phương Linh](https://github.com/ttplinh) | 55% | -->
+| 1 | [InstiFund](https://github.com/algotrade-research/InstiFund) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/), [ETF Front-Runner Strategy](https://hub.algotrade.vn/knowledge-hub/front-running-etf-strategy/) | [Đặng Minh Nhật](https://github.com/BJMinhNhut) | ![Static Badge](https://img.shields.io/badge/PLUTUS-80%25-darkgreen) |
+| 2 | [SearchingTA](https://github.com/algotrade-research/SearchingTA) | [Momentum](https://hub.algotrade.vn/knowledge-hub/momentum-strategy/), [Mean-Reversion](https://hub.algotrade.vn/knowledge-hub/mean-reversion-strategy/) | [Tống Thiên Phước](https://github.com/tphuoc04/) | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
+| 3 | [FinTrip](https://github.com/algotrade-research/FinTrip) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Tạ Quang Khôi](https://github.com/khoi-ta) | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
+| 4 | [Statisical-Arbitrage](https://github.com/algotrade-research/Statisical-Arbitrage) | [Market-Neutral: Statistical Arbitrage](https://hub.algotrade.vn/knowledge-hub/market-neutral-strategy/) | [Cao Quang Hiếu](https://github.com/HieuQCao) | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
+| 5 | [Intraday-Momentum](https://github.com/algotrade-research/Intraday-Momentum) | [Momentum](https://hub.algotrade.vn/knowledge-hub/momentum-strategy/) | [Lâm Thành Duy](https://github.com/ltduy6) | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
+| 6 | [SmartBeta](https://github.com/algotrade-research/SmartBeta) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Lê Đức Phú](https://github.com/dphu2609) | ![Static Badge](https://img.shields.io/badge/PLUTUS-70%25-darkgreen) |
+| 7 | [scalping-strategy](https://github.com/algotrade-research/scalping-strategy) | [Scalping](https://hub.algotrade.vn/knowledge-hub/scalping-strategy/) | [Trần Thị Phương Linh](https://github.com/ttplinh) | ![Static Badge](https://img.shields.io/badge/PLUTUS-65%25-%23BA8E23) |
+| 8 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth), [Lương Thanh Anh Đức](https://github.com/luongthanhanhduc)| ![Static Badge](https://img.shields.io/badge/PLUTUS-50%25-%23BA8E23) |
+| 9 | | | | |
