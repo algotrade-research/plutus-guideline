@@ -103,4 +103,4 @@ Below is the list of sample projects which adhere to the PLUTUS Standard. Each p
 | 6 | [SmartBeta](https://github.com/algotrade-research/SmartBeta) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Lê Đức Phú](https://github.com/dphu2609) | Algotrade Internship 11.24 | ![Static Badge](https://img.shields.io/badge/PLUTUS-70%25-darkgreen) |
 | 7 | [scalping-strategy](https://github.com/algotrade-research/scalping-strategy) | [Scalping](https://hub.algotrade.vn/knowledge-hub/scalping-strategy/) | [Trần Thị Phương Linh](https://github.com/ttplinh) | Algotrade Internship 11.24 | ![Static Badge](https://img.shields.io/badge/PLUTUS-65%25-%23BA8E23) |
 | 8 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth), [Lương Thanh Anh Đức](https://github.com/luongthanhanhduc)| Algotrade Internship 11.23 | ![Static Badge](https://img.shields.io/badge/PLUTUS-50%25-%23BA8E23) |
-| 9 | | | | |
+| 9 | | | | | |
