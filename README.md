@@ -94,7 +94,7 @@ Three badge levels go with the Compliance Score:
 
 Below is the list of sample projects which adhere to the PLUTUS Standard. Each project has link to the author/maintainer profile. Plutus compliance percentage show how much the project is currently aligned with the PLUTUS Standard.
 | **ID** | **Project Name** | **Strategy Type** | **Author/Maintainer** | **Program** | **PLUTUS Compliance** |
-|--------|------------------|-------------------|-----------------------|-------------|:--------------------:|
+|--------|------------------|-------------------|-----------------------|:-----------:|:---------------------:|
 | 1 | [InstiFund](https://github.com/algotrade-research/InstiFund) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/), [ETF Front-Runner Strategy](https://hub.algotrade.vn/knowledge-hub/front-running-etf-strategy/) | [Đặng Minh Nhật](https://github.com/BJMinhNhut) | Algotrade Internship 11.24 | ![Static Badge](https://img.shields.io/badge/PLUTUS-80%25-darkgreen) |
 | 2 | [SearchingTA](https://github.com/algotrade-research/SearchingTA) | [Momentum](https://hub.algotrade.vn/knowledge-hub/momentum-strategy/), [Mean-Reversion](https://hub.algotrade.vn/knowledge-hub/mean-reversion-strategy/) | [Tống Thiên Phước](https://github.com/tphuoc04/) | Algotrade Internship 6.24 | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
 | 3 | [FinTrip](https://github.com/algotrade-research/FinTrip) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Tạ Quang Khôi](https://github.com/khoi-ta) | Algotrade Internship 11.23 | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
