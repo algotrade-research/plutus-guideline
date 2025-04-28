@@ -108,3 +108,9 @@ Below is the list of sample projects which adhere to the PLUTUS Standard. Each p
 | 11 | [scalping-strategy](https://github.com/algotrade-research/scalping-strategy) | [Scalping](https://hub.algotrade.vn/knowledge-hub/scalping-strategy/) | [Trần Thị Phương Linh](https://github.com/ttplinh) | ALGOTRADE Internship 11.24 | ![Static Badge](https://img.shields.io/badge/PLUTUS-70%25-darkgreen) |
 | 12 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth), [Lương Thanh Anh Đức](https://github.com/luongthanhanhduc)| ALGOTRADE Internship 11.23 | ![Static Badge](https://img.shields.io/badge/PLUTUS-50%25-%23BA8E23) |
 | 13 | | | | | |
+
+## 3.1 Other example projects
+There is also a repertoire of projects that adhere to the PLUTUS Standard, which comes from the educational program offered by ALGOTRADE, that can be explored [here](https://github.com/algotrade-course).
+
+Listed are the projects from:
+- [CS408: Computational Finance, Algorithmic Trading - APCS, HCMUS, 2025](https://github.com/algotrade-course#cs408---apcs-hcmus---2025-project)
